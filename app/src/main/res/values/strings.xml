@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Convert It!</string>
+
+    <string-array name="temperature">
+        <item>Celsius</item>
+        <item>Fahrenheit</item>
+        <item>Kelvin</item>
+    </string-array>
+
+    <string-array name="length">
+        <item>Centimeters</item>
+        <item>Metres</item>
+        <item>Kilometres</item>
+        <item>Inches</item>
+        <item>Feet</item>
+        <item>Yards</item>
+        <item>Miles</item>
+    </string-array>
+
+    <string-array name="time">
+        <item>Seconds</item>
+        <item>Minutes</item>
+        <item>Hours</item>
+        <item>Days</item>
+        <item>Weeks</item>
+        <item>Months</item>
+        <item>Years</item>
+    </string-array>
+    
+    <string-array name="weight">
+        <item>Grams</item>
+        <item>Kilograms</item>
+        <item>Tonnes</item>
+        <item>Ounces</item>
+        <item>Pounds</item>
+        <item>Stones</item>
+    </string-array>
+
+    <string-array name="pressure">
+        <item>Pascals</item>
+        <item>Bars</item>
+        <item>Torrs</item>
+    </string-array>
+
+    <string-array name="currency">
+        <item>RON</item>
+        <item>EUR</item>
+        <item>USD</item>
+        <item>GBP</item>
+        <item>CHF</item>
+    </string-array>
+
+    <string-array name="currencyValues">
+        <item>4.8360</item>
+        <item>1</item>
+        <item>1.0841</item>
+        <item>0.8694</item>
+        <item>1.0513</item>
+    </string-array>
+
+</resources>
